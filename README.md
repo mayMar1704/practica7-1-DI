@@ -4,7 +4,7 @@
 
 Crea un nuevo proyecto **JavaFX** (en Maven o Ant) siguiendo el MVC visto en clase con una ventana sencilla que tan solo salude al usuario y muestre un botón que muestre salir.
 
-![](media/2023-02-06 19_11_09.png)
+![](media/2023-02-06_19_11_09.png)
 
 
 ## Parte 2
