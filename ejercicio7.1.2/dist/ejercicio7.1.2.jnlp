@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ejercicio7.1.2.jnlp">
+  <information>
+    <title>ejercicio7.1.2</title>
+    <vendor>mayri</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ejercicio7.1.2.jar" size="3469" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="ejercicio7.pkg1.pkg2.Ejercicio712"  name="ejercicio7.1.2" />
+  <update check="always"/>
+</jnlp>

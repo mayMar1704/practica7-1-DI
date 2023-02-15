@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.proyecto_interfaces.prueba.FXMLController">
+    <children>
+        <Button id="botonsalir" fx:id="button" layoutX="268.0" layoutY="221.0" onAction="#handleButtonAction" text="Salir!" />
+        <Label id="TextoSaludar" fx:id="label" layoutX="152.0" layoutY="126.0" minHeight="16" minWidth="69" text="Hola usuario">
+         <font>
+            <Font size="50.0" />
+         </font></Label>
+    </children>
+</AnchorPane>
